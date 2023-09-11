@@ -1,10 +1,11 @@
 /20news-18828
 /blogs
 
-blogs_consolidated.txt
-news_consolidated.txt
 blogs.zip
+20news-18828.tar.gz
+20N_consolidated.txt
 20N_GROUP_training.txt
 20N_GROUP_testing.txt
+BAC_consolidated.txt
 BAC_GROUP_training.txt
 BAC_GROUP_testing.txt
