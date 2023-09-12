@@ -6,6 +6,15 @@ blogs.zip
 20N_consolidated.txt
 20N_GROUP_training.txt
 20N_GROUP_testing.txt
+20N_unigrams.pkl
+20N_bigrams.pkl
+20N_trigrams.pkl
+20N_training_tokens.pickle
 BAC_consolidated.txt
 BAC_GROUP_training.txt
 BAC_GROUP_testing.txt
+BAC_unigrams.pkl
+BAC_bigrams.pkl
+BAC_trigrams.pkl
+BAC_training_tokens.pickle
+BAC_trigrams_freq.pkl
